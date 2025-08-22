@@ -11,7 +11,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=santosdevv&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="santosdevv's GitHub Stats"  height="180em" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosdevv&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&hide=html,css" alt="santosdevv's GitHub Stats"  height="150em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosdevv&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&hide=html,css" alt="santosdevv's GitHub Stats"  height="160em" />
 </div>
   
 ---
