@@ -1,6 +1,3 @@
-
-## 🧑‍🎓 About Me
-
 - 🎓 Internet Computer Technician (3/3) - <strong>Serviço Nacional de Aprendizagem Industrial, Senai Alagoas</strong>
 - 🔧 Experiência com tecnologias como <strong>JavaScript, React, Node.js e MySQL</strong>
 
