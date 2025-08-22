@@ -11,11 +11,11 @@
 
 <div align="center">
   <a href="https://github.com/santosdevv">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=santosdevv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosdevv&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=santosdevv&theme=default&show_icons=true&hide_border=true&count_private=true" alt="santosdevv's GitHub Stats"/>
+    <img src="https://streak-stats.demolab.com?user=santosdevv&theme=default&hide_border=true" alt="santosdevv's GitHub Stats"/></p>
   </a>
 </div>
-
+  
 ---
 
 ## 🚀 Skills & Tools
