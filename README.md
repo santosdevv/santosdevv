@@ -41,6 +41,8 @@
 </div>
 
 ---
+<h2 style="border: none;">✨ Sempre aprendendo, sempre evoluindo</h2>
+
 
 <div align="center">
   <a href="https://github.com/santosdevv">
@@ -48,4 +50,3 @@
   </a>
 </div>
 
-✨ Sempre aprendendo, sempre evoluindo
