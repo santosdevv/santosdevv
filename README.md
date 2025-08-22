@@ -10,11 +10,8 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/santosdevv">
-    <img src="https://github-readme-stats.vercel.app/api?username=santosdevv&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="santosdevv's GitHub Stats" width="300" height="300" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosdevv&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="santosdevv's GitHub Stats" width="237" height="300" />
-  <img src="https://streak-stats.demolab.com?user=santosdevv&theme=midnight-purple&hide_border=true" alt="santosdevv's GitHub Stats" width="300" height="300" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=santosdevv&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="santosdevv's GitHub Stats"  height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosdevv&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="santosdevv's GitHub Stats"  height="180em" />
 </div>
   
 ---
@@ -44,5 +41,11 @@
 </div>
 
 ---
+
+<div align="center">
+  <a href="https://github.com/santosdevv">
+  <img src="https://streak-stats.demolab.com?user=santosdevv&theme=midnight-purple&hide_border=true" alt="santosdevv's GitHub Stats" width="300" height="300" />
+  </a>
+</div>
 
 ✨ Sempre aprendendo, sempre evoluindo
