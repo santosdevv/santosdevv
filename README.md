@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0B3D91&center=true&vCenter=true&width=500&lines=Hello+World!;Eu+sou+o+Santos+👋;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7E3CCA&center=true&vCenter=true&width=500&lines=Hello+World!;I+am+Santos+👋;Welcome+to+my+GitHub!" alt="Typing SVG"/>
 </p>
 
 🎓 Estudante de Técnico em Informática (3/3) - SENAI Alagoas  
@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/santosdevv">
-    <img src="https://github-readme-stats.vercel.app/api?username=santosdevv&theme=default&show_icons=true&hide_border=true&count_private=true" alt="santosdevv's GitHub Stats"/>
-    <img src="https://streak-stats.demolab.com?user=santosdevv&theme=default&hide_border=true" alt="santosdevv's GitHub Stats"/></p>
+    <img src="https://github-readme-stats.vercel.app/api?username=santosdevv&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="santosdevv's GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=santosdevv&theme=midnight-purple&hide_border=true" alt="santosdevv's GitHub Stats" />
   </a>
 </div>
   
