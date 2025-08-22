@@ -1,48 +1,46 @@
-- 🎓 Internet Computer Technician (3/3) - <strong>Serviço Nacional de Aprendizagem Industrial, Senai Alagoas</strong>
-- 🔧 Experiência com tecnologias como <strong>JavaScript, React, Node.js e MySQL</strong>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0B3D91&center=true&vCenter=true&width=500&lines=Hello+World!;Eu+sou+o+Santos+👋;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+</p>
+
+🎓 Estudante de Técnico em Informática (3/3) - SENAI Alagoas  
+💻 Experiência com **JavaScript, React, Node.js e MySQL**
 
 ---
 
 ## 📊 GitHub Statistics
 
-
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=santosdevv&show_icons=true&hide_title=true&theme=dark&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosdevv&layout=compact&theme=dark&hide_border=true&hide=html,typescript,objective-j,css"/>
-
-</div>
----
-
-## 🛠️ Technologies and Tools I Use
-
-### 🖥️ **Desenvolvimento Front-End**
-<p align="center">
-  <img alt="HTML" src="https://skillicons.dev/icons?i=html" width="60" height="60"/>
-  <img alt="CSS" src="https://skillicons.dev/icons?i=css" width="60" height="60"/>
-  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" width="60" height="60"/>
-  <img alt="React" src="https://skillicons.dev/icons?i=react" width="60" height="60"/>
-</p>
-
-### 🔙 **Back-End e Banco de Dados**
-<p align="center">
-  <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="60" height="60"/>
-  <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" width="60" height="60"/>
-</p>
-
-### 🛠️ **Ferramentas de Desenvolvimento**
-<p align="center">
-  <img alt="Git" src="https://skillicons.dev/icons?i=git" width="60" height="60"/>
-  <img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="60" height="60"/>
-  <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" width="60" height="60"/>
-</p>
-
----
-
-## 🌐My Contributions
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santosdevv&theme=dracula&hide_border=true" />
+  <a href="https://github.com/santosdevv">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=santosdevv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosdevv&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 
+---
+
+## 🚀 Skills & Tools
+
+### 🎨 Desenvolvimento Front-End
+<div style="display: inline_block">
+  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</div>
+
+### ⚙️ Back-End e Banco de Dados
+<div style="display: inline_block">
+  <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
+
+### 🔧 Ferramentas de Desenvolvimento
+<div style="display: inline_block">
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
 
 ---
+
+✨ Sempre aprendendo, sempre evoluindo
