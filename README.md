@@ -43,10 +43,3 @@
 ---
 <h2 style="border: none;">✨ Sempre aprendendo, sempre evoluindo</h2>
 
-
-<div align="center">
-  <a href="https://github.com/santosdevv">
-  <img src="https://streak-stats.demolab.com?user=santosdevv&theme=midnight-purple&hide_border=true" alt="santosdevv's GitHub Stats" height="200em" />
-  </a>
-</div>
-
