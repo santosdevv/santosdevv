@@ -17,7 +17,8 @@
 ---
 
 ## 🚀 Skills & Tools
-
+<div align="center">
+  
 ### 🎨 Desenvolvimento Front-End
 <div style="display: inline_block">
   <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -39,7 +40,9 @@
   <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
+</div>
 
 ---
+
 <h2 style="border: none;">✨ Sempre aprendendo, sempre evoluindo</h2>
 
