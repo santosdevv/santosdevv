@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7E3CCA&center=true&vCenter=true&width=500&lines=Hello+World!;I+am+Santos+👋;Welcome+to+my+GitHub!" alt="Typing SVG"/>
 </p>
 
-🎓 Estudante de Técnico em Informática (3/3) - SENAI Alagoas  
+🎓 Estudante de Técnico em Informática para Internet(3/3) - SENAI Alagoas  
 💻 Experiência com **JavaScript, React, Node.js e MySQL**
 
 ---
